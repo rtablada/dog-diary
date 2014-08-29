@@ -1,0 +1,14 @@
+# Site settings
+title: Daily Dog Training Diary
+name: Daily Dog Training Diary
+description: > # this means to ignore newlines until "baseurl:"
+  This is a site dedicated to (more or less) daily journals
+  of the training of my dog and working with his seperation
+  anxiety.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dog.ryantablada.com" # the base hostname & protocol for your site
+twitter_username: ryantablada
+github_username:  rtablada
+
+# Build settings
+markdown: kramdown
