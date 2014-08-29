@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This is a site dedicated to (more or less) daily journals
   of the training of my dog and working with his seperation
   anxiety.
-baseurl: "dog-diary" # the subpath of your site, e.g. /blog/
+baseurl: "/dog-diary" # the subpath of your site, e.g. /blog/
 github_url: "http://rtablada.github.io/dog-diary"
 url: "http://rtablada.github.io/dog-diary" # the base hostname & protocol for your site
 twitter_username: ryantablada
